@@ -1,7 +1,14 @@
-INTERIORS BY LILLY JO — 3-PAGE WEBSITE
+INTERIORS BY LILLY JO — IMPROVED WEBSITE
 
-Open index.html in a browser. Navigate to Shop Collection and Contact.
+Includes: index.html (About), products.html (Shop Collection), contact.html (Contact), styles.css, script.js, and images/ folder.
 
-This is a concept storefront. Product names, prices, shopping bag, and contact form are demos; no payments or emails are processed.
+GITHUB PAGES UPLOAD:
+1. Open your repository at https://github.com/lillyroskopf/interiorsbylillyjo-website
+2. Choose Add file > Upload files.
+3. Upload ALL files AND the images folder from this extracted ZIP into the repository root.
+4. Commit changes. Replace existing files with the updated versions if GitHub prompts.
+5. Wait 1-3 minutes, then refresh the published site.
 
-The five editorial inspiration images are cropped from screenshots you provided. Replace these with photographs you own or are licensed to use before publishing. Product imagery is externally hosted by Unsplash and needs internet access.
+IMPORTANT: The image files must remain in the images/ subfolder. Existing copies at repository root are harmless.
+
+This is a demonstration storefront. No real checkout, order fulfillment, or email sending is implemented.
