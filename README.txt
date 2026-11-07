@@ -1,14 +1,27 @@
-INTERIORS BY LILLY JO — IMPROVED WEBSITE
+INTERIORS BY LILLY JO — EUROPEAN HERITAGE REDESIGN
 
-Includes: index.html (About), products.html (Shop Collection), contact.html (Contact), styles.css, script.js, and images/ folder.
+A fully redesigned three-page, responsive, static concept website.
 
-GITHUB PAGES UPLOAD:
-1. Open your repository at https://github.com/lillyroskopf/interiorsbylillyjo-website
-2. Choose Add file > Upload files.
-3. Upload ALL files AND the images folder from this extracted ZIP into the repository root.
-4. Commit changes. Replace existing files with the updated versions if GitHub prompts.
-5. Wait 1-3 minutes, then refresh the published site.
+FILES
+index.html       The Maison / homepage
+products.html    The Collection / filterable inspiration catalog
+contact.html     Inquire / demo contact form
+styles.css       Shared design system and responsive styles
+script.js        Navigation, filtering, sorting, save-to-inspiration, demo form
+images/          Five locally included interior photographs
 
-IMPORTANT: The image files must remain in the images/ subfolder. Existing copies at repository root are harmless.
+PUBLISH ON GITHUB PAGES
+1. Extract the ZIP.
+2. Replace the existing index.html, products.html, contact.html, styles.css,
+   and script.js in the ROOT of your GitHub repository.
+3. Upload the entire images folder to the repository ROOT, so files appear
+   at images/inspiration-1.jpg through images/inspiration-5.jpg.
+4. Commit the changes to the main branch.
+5. Wait for the green GitHub Pages deployment check, then hard-refresh.
 
-This is a demonstration storefront. No real checkout, order fulfillment, or email sending is implemented.
+IMPORTANT
+The collection is a visual concept, not a real shop. Product names and prices
+are illustrative, and photographs show interiors rather than specific purchasable
+items. The inspiration list is session-only and the contact form previews a
+message locally; neither checkout nor email delivery is implemented.
+Google Fonts require an internet connection; local fallbacks are provided.
